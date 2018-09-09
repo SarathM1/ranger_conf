@@ -1,0 +1,16 @@
+rename RUBE
+
+;;;
+mkdir screenshots
+mkdir testDir
+search testdir
+my_edit 
+cd ~
+cd /home/sm/Pictures
+cd download
+?c
+.
+htop
+mkcd testDir
+delete
+fzf_select 
